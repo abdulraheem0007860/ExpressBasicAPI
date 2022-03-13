@@ -4,7 +4,7 @@
   "description": "All about REST API in Express",
   "main": "index.js",
   "scripts": {
-    "test": "node index",
+    "start": "node index",
     "dev": "nodemon index"
   },
   "author": "Anand Stephann",
